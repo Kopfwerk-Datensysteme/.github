@@ -2,7 +2,7 @@
 name: Bug
 about: Erstelle einen Bug, um unser Produkt zu verbessern
 title: ''
-labels: Bug, needs-review
+labels: ''
 assignees: ''
 
 ---
@@ -28,7 +28,7 @@ Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erklären.
 
 **Desktop (bitte füllen Sie die folgenden Informationen aus):**
  - Betriebssystem: [z. B.: Windows 10]
- - Softwareversion: [z. B.: 4.25.1.4]
+ - Softwareversion: [z. B.: 4.25.1.5]
 
 **Zusätzlicher Kontext**
 Fügen Sie hier weitere Informationen über das Problem hinzu.
