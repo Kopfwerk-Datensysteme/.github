@@ -2,7 +2,7 @@
 name: Bug
 about: Erstelle einen Bug, um unser Produkt zu verbessern
 title: ''
-labels: ''
+labels: Bug, needs-review
 assignees: ''
 
 ---

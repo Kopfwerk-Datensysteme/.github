@@ -2,7 +2,7 @@
 name: Feature
 about: Schlage eine Idee für dieses Projekt vor
 title: ''
-labels: ''
+labels: Feature, needs-review
 assignees: ''
 
 ---
